@@ -2,7 +2,7 @@
 
 ### Desenvolvedora Full Stack | Java & Angular
 
-Sou uma profissional com mais de 2 anos de experiência como Analista de Sistemas na EY, agora focada em construir soluções escaláveis e eficientes através do desenvolvimento web. Minha bagagem une a visão analítica de negócios com o domínio técnico do ecossistema Java.
+Profissional com mais de 2 anos de experiência como Analista de Sistemas na EY, agora focada em construir soluções escaláveis e eficientes através do desenvolvimento Backend. Minha bagagem une a visão analítica de negócios com o domínio técnico do ecossistema Java.
 
 ---
 
